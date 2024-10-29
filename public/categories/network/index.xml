@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Network on Classic</title>
+    <link>//localhost:1313/categories/network/</link>
+    <description>Recent content in Network on Classic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/network/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building own Network Infrastructure</title>
+      <link>//localhost:1313/post/2024/10/29/building-own-network-infrastructure/</link>
+      <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2024/10/29/building-own-network-infrastructure/</guid>
+      <description>Build https://www.itjones.com/blogs/2020/3/15/how-to-build-a-computer-network-for-your-small-business-part-1-the-basics https://networkencyclopedia.com/network-infrastructure-design/ where to start subnetting fundamentals why networking - beginners guide </description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Degoogle on Classic</title>
+    <link>//localhost:1313/tags/degoogle/</link>
+    <description>Recent content in Degoogle on Classic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/degoogle/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>degooglify your android</title>
+      <link>//localhost:1313/post/2024/10/26/degooglify-your-android/</link>
+      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2024/10/26/degooglify-your-android/</guid>
+      <description>todo android OS Why custom rom popular custom rom bootloader recovery safety net android-tool(sdk suite) alternatives xda forum fuck google Many of you know that you can use an Android without a Google account. What I find interesting, is, even if you choose not to login to your Google account, in order to use your device, you nevertheless have to agree to Google&amp;rsquo;s terms of service!&#xA;So even though you may physically own the metal and plastic which comprises your device, and have the receipt to prove it, you do not own the right to use it.</description>
+    </item>
+  </channel>
+</rss>
