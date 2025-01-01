@@ -1,11 +1,6 @@
 ---
-title: Building own Network Infrastructure
-author: Bixxzy
-date: '2024-10-29'
-categories:
-  - network
-tags:
-  - acn
+title:
+date:
 ---
 ## Build
 
